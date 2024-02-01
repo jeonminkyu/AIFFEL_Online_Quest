@@ -31,7 +31,8 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 처음보는 Duration을 잘 사용하였다.
-            ![image](https://github.com/NeatyNut/minkyu/assets/89675001/711a940f-29a7-49fa-a0f9-54036511b4c6)
+
+          ![image](https://github.com/NeatyNut/minkyu/assets/89675001/711a940f-29a7-49fa-a0f9-54036511b4c6)
 
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -39,7 +40,8 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 회고를 꼼꼼히 써주었다.
-            ![image](https://github.com/NeatyNut/minkyu/assets/89675001/a9dc25d8-e616-4c9c-a0e1-7dd960d8ad72)
+
+          ![image](https://github.com/NeatyNut/minkyu/assets/89675001/a9dc25d8-e616-4c9c-a0e1-7dd960d8ad72)
 
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
@@ -48,7 +50,8 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 코드가 간결하여 이해가 잘 됐다.
-            ![image](https://github.com/NeatyNut/minkyu/assets/89675001/bd631df0-31a5-4c73-94c0-52a7e1378ea2)
+
+          ![image](https://github.com/NeatyNut/minkyu/assets/89675001/bd631df0-31a5-4c73-94c0-52a7e1378ea2)
 
         
 # 참고 링크 및 코드 개선
